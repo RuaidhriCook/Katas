@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Kata Tests\\Kata Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Kata Tests\\Kata Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Kata Tests\\Kata Tests.csproj",
+        "projectName": "Kata Tests",
+        "projectPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Kata Tests\\Kata Tests.csproj",
+        "packagesPath": "C:\\Users\\Ruaidhri.cook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Kata Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruaidhri.cook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.harrogate.jet2.com/api/v2": {},
+          "http://sitecore.myget.org/F/sc-packages/api/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://petabridge.myget.org/F/jet2-phobos/auth/b193185d-b218-4a65-a6c9-fa5a98f2d1dc/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Kata Implementations.csproj": {
+                "projectPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Kata Implementations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Kata Implementations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Kata Implementations.csproj",
+        "projectName": "Kata Implementations",
+        "projectPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Kata Implementations.csproj",
+        "packagesPath": "C:\\Users\\Ruaidhri.cook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruaidhri.cook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.harrogate.jet2.com/api/v2": {},
+          "http://sitecore.myget.org/F/sc-packages/api/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://petabridge.myget.org/F/jet2-phobos/auth/b193185d-b218-4a65-a6c9-fa5a98f2d1dc/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

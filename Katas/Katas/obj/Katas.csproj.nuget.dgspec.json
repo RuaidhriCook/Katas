@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Katas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Katas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Katas.csproj",
+        "projectName": "Katas",
+        "projectPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\Katas.csproj",
+        "packagesPath": "C:\\Users\\Ruaidhri.cook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruaidhri.cook\\source\\repos\\Katas\\Katas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruaidhri.cook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.harrogate.jet2.com/api/v2": {},
+          "http://sitecore.myget.org/F/sc-packages/api/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://petabridge.myget.org/F/jet2-phobos/auth/b193185d-b218-4a65-a6c9-fa5a98f2d1dc/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.csprojAssemblyReference.cache
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.csproj.CoreCompileInputs.cache
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.AssemblyInfoInputs.cache
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.AssemblyInfo.cs
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\bin\Debug\netcoreapp2.2\Katas.deps.json
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\bin\Debug\netcoreapp2.2\Katas.runtimeconfig.json
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\bin\Debug\netcoreapp2.2\Katas.runtimeconfig.dev.json
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\bin\Debug\netcoreapp2.2\Katas.dll
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\bin\Debug\netcoreapp2.2\Katas.pdb
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.dll
+C:\Users\Ruaidhri.cook\source\repos\Katas\Katas\obj\Debug\netcoreapp2.2\Katas.pdb
